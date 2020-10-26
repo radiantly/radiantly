@@ -1,5 +1,11 @@
-Imagine having something actually useful in here
+### Hey there! You've reached my profile 🎉
 
+Wondering where to go next? How about:
+ - [Hacker News](https://news.ycombinator.com) - find cynical people commenting on the latest and greatest
+ - [xkcd](https://xkcd.com) -  A webcomic of romance, sarcasm, math, and language
+ - [CommitStrip](https://www.commitstrip.com) - Yet another webcomic relating the daily life of web agency developers
+ - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts)
+ - Even more comics over at [PhD Comics](https://phdcomics.com/)
 <!--
 **radiantly/radiantly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

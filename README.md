@@ -2,10 +2,9 @@
 
 Wondering where to go next? How about:
  - [Hacker News](https://news.ycombinator.com) - find cynical people commenting on the latest and greatest
- - [xkcd](https://xkcd.com) -  A webcomic of romance, sarcasm, math, and language
- - [CommitStrip](https://www.commitstrip.com) - Yet another webcomic relating the daily life of web agency developers
- - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts)
- - Even more comics over at [PhD Comics](https://phdcomics.com/)
+ - Comics around the web - [xkcd](https://xkcd.com), [CommitStrip](https://www.commitstrip.com), and [PhD Comics](https://phdcomics.com/)
+ - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts), starting with [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
+ - [Ciechanow.ski](https://ciechanow.ski) - highly recommend [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/)
 <!--
 **radiantly/radiantly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,10 +1,11 @@
 ### Hey there! You've reached my profile 🎉
 
 Wondering where to go next? How about:
- - [Hacker News](https://news.ycombinator.com) - find cynical people commenting on the latest and greatest
- - Comics around the web - [xkcd](https://xkcd.com), [CommitStrip](https://www.commitstrip.com), and [PhD Comics](https://phdcomics.com/)
+ - [Hacker News](https://news.ycombinator.com) – find cynical people commenting on the latest and greatest
+ - Comics around the web – [xkcd](https://xkcd.com), [CommitStrip](https://www.commitstrip.com), and [PhD Comics](https://phdcomics.com/)
  - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts), starting with [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
- - [Ciechanow.ski](https://ciechanow.ski) - highly recommend [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/)
+ - Paul Graham's essays – especially [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)
+ - [Ciechanow.ski](https://ciechanow.ski) – highly recommend [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/)
 <!--
 **radiantly/radiantly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

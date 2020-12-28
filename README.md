@@ -6,6 +6,7 @@ Wondering where to go next? How about:
  - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts), starting with [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
  - Paul Graham's essays – especially [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)
  - [Ciechanow.ski](https://ciechanow.ski) – highly recommend [Exposing Floating Point](https://ciechanow.ski/exposing-floating-point/)
+ - [Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html) by Kyle Halladay
 <!--
 **radiantly/radiantly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

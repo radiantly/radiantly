@@ -1,7 +1,7 @@
 ### Hey there! You've reached my profile 🎉
 
 Wondering where to go next? How about:
- - [Hacker News](https://news.ycombinator.com) – find cynical people commenting on the latest and greatest
+ - [Hacker News](https://news.ycombinator.com) – find people discussing the latest and greatest
  - Comics around the web – [xkcd](https://xkcd.com), [CommitStrip](https://www.commitstrip.com), and [PhD Comics](https://phdcomics.com/)
  - The Technical Interview series on [Aphyr's blog](https://aphyr.com/posts), starting with [Reversing the Technical Interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
  - Paul Graham's essays – especially [Why Nerds are Unpopular](http://www.paulgraham.com/nerds.html)
